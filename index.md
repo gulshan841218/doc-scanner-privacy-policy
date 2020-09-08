@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages edit
 
 You can use the [editor on GitHub](https://github.com/gulshan841218/doc-scanner-privacy-policy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
